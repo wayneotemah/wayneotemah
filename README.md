@@ -6,7 +6,7 @@ Computer Scientist
 
 I have been studying and practising computer science and other related science since 2020. My interests are in Math, Physics, and Computer science.
 
-* 🌍  I'm based in Nairobi Kenay
+* 🌍  I'm based in Nairobi Kenya
 * ✉️  You can contact me at [wayneotemahegesa@gmail.com](mailto:wayneotemahegesa@gmail.com)
 * 🧠  I'm learning Computer Science, mobile development and networking
 * 🤝  I'm open to collaborating on any computer and science related topic
