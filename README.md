@@ -1,8 +1,8 @@
 Hi 👋 My name is Wenslous Egesa Otema
 =====================================
 
-Computer Scientist
-------------------
+I am practising computer science
+--------------------------------
 
 I have been studying and practising computer science and other related science since 2020. My interests are in Math, Physics, and Computer science.
 
