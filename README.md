@@ -9,7 +9,7 @@ I have been studying and practising computer science and other related science s
 
 * 🌍  Based in Nairobi Kenya
 * 🧠  Currently learining ML and AI
-* 🤝  Open to project collaborations on computer and science related topic
+* 🤝  Open to project collaborations on computer and science related topics
 * ⚡   Providing solutions
 * ✉️   Contact me at [wayneotemahegesa@gmail.com](mailto:wayneotemahegesa@gmail.com)
 
