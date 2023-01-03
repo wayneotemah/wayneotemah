@@ -1,16 +1,17 @@
-Hi 👋 My name is Wenslous Egesa Otema
+Hi 👋, 
+I'm Wenslous Egesa Otema
 =====================================
 
-I am practising computer science
---------------------------------
+Practising computer science
+---------------------------
 
-I have been studying and practising computer science and other related science since 2020. My interests are in Math, Physics, and Computer science.
+I have been studying and practising computer science and other related science since 2020. My academic interests are in Math, Physics, and Computers.
 
-* 🌍  I'm based in Nairobi Kenya
-* ✉️  You can contact me at [wayneotemahegesa@gmail.com](mailto:wayneotemahegesa@gmail.com)
-* 🧠  I'm learning Computer Science, mobile development and networking
-* 🤝  I'm open to collaborating on any computer and science related topic
-* ⚡  Using science to solve environmental and human problems
+* 🌍  Based in Nairobi Kenya
+* 🧠  Currently learining ML and AI
+* 🤝  Open to project collaborations on computer and science related topic
+* ⚡   Providing solutions
+* ✉️   Contact me at [wayneotemahegesa@gmail.com](mailto:wayneotemahegesa@gmail.com)
 
 
 ### Languages 
